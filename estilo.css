@@ -1,0 +1,28 @@
+body { font-family: Arial, sans-serif; margin: 20px; color: black;
+         background-image: url();
+         background-color: #ff9bde;
+         background-attachment: fixed;
+          background-size: cover;
+          background-repeat: no-repeat;
+         background-position: center;
+         image-rendering: optimizeQuality; 
+        
+ }
+ .imagem-emergente {
+  mix-blend-mode: multiply;}
+   audio {
+      position: fixed;       
+      top: 20px;          
+      right: 20px;          
+      background-color: #ff9bde;
+      padding: 10px;
+      }
+    audio {
+      width: 100px;        
+    }
+    .batalha { margin-bottom: 10px; padding: 10px; border: 1px solid #0c0a0a; border-radius: 6px; }
+    .finalizada { background-color: #fdbdff; color: rgb(3, 3, 3); }
+    button { margin-top: 5px; }
+    #ranking { margin-top: 40px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+    th, td { border: 1px solid #050505; padding: 6px; text-align: center; } 
